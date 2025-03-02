@@ -1,0 +1,16 @@
+#icon {
+  width: 100px;
+}
+
+.weather-container {
+  background: #f8f9fa;
+  padding: 20px;
+  border-radius: 10px;
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
